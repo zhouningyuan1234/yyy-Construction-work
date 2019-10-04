@@ -13,7 +13,7 @@
       <span class="purple">
         建筑工程师规则:<br>
         配合团主完成网页建设<br>
-        每个月工资100积分。<br>
+        每个月工资1钻石。<br>
       </span>
     </div>
 	</body>
