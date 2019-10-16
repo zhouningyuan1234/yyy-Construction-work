@@ -18,5 +18,5 @@
     </div>
 	</body>
 	<div>学习html:<button title="hello"><a href="https://www.w3school.com.cn/html/index.asp"><span class="purple">去学习</span></a></button></div>
-	<div>团队工作:<button title="back"><a href="https://zhouningyuan1234.github.io/tuanduigongzuo/"><span class="purple">返回</span></a></button></div>
+	<div>团队工作:<button title="back"><a href="https://zhouningyuan1234.github.io/yyy-Team-work/"><span class="purple">返回</span></a></button></div>
 </html>
